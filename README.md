@@ -2,7 +2,9 @@
 <img width="1200" height="475" alt="AutoBid Banner" src="aut.png" />
 </div>
 
-# AutoBid - AI-Powered Auction Platform
+# AutoBid -  Auction Platform
+
+Live Url: https://vercel.com/kwamegenerale-gmailcoms-projects/autobid/7hrHougBxsftrrAgzZMnYmjNzacN
 
 AutoBid is a modern, feature-rich auction platform built with React, TypeScript, and Vite. This application provides a comprehensive marketplace for users to browse, bid on, and sell items through an intuitive web interface.
 
@@ -61,9 +63,6 @@ npm install
 
 Create a `.env.local` file in the root directory and add your Gemini API key:
 
-```env
-GEMINI_API_KEY=your_gemini_api_key_here
-```
 
 ### 3. Development Server
 
@@ -128,9 +127,6 @@ autobid/
 
 ## 🔧 Configuration
 
-### Environment Variables
-
-- `GEMINI_API_KEY`: Required for AI features and Gemini API integration
 
 ### Development Configuration
 
@@ -170,11 +166,6 @@ AutoBid supports all modern browsers:
 2. Set the `GEMINI_API_KEY` environment variable in Vercel dashboard
 3. Deploy with default settings
 
-### Netlify
-
-1. Connect your repository to Netlify
-2. Add `GEMINI_API_KEY` as an environment variable
-3. Set build command to `npm run build` and publish directory to `dist`
 
 ### Custom Server
 
@@ -206,6 +197,5 @@ For support and questions:
 ## 🙏 Acknowledgments
 
 - Built with React and TypeScript
-- Powered by Google Gemini AI
 - Icons provided by Lucide React
 - Charts powered by Recharts
