@@ -4,7 +4,7 @@
 
 # AutoBid -  Auction Platform
 
-Live Url: https://vercel.com/kwamegenerale-gmailcoms-projects/autobid/7hrHougBxsftrrAgzZMnYmjNzacN
+Live Url: https://autobid-ten.vercel.app/
 
 AutoBid is a modern, feature-rich auction platform built with React, TypeScript, and Vite. This application provides a comprehensive marketplace for users to browse, bid on, and sell items through an intuitive web interface.
 
